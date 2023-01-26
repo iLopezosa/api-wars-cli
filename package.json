@@ -1,0 +1,27 @@
+{
+  "name": "api-wars-cli",
+  "version": "1.0.0",
+  "description": "CLI for api-wars CRUD app using all APIs.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iLopezosa/api-wars-cli.git"
+  },
+  "keywords": [
+    "grpc",
+    "graphql",
+    "api-rest",
+    "client",
+    "cli",
+    "typescript"
+  ],
+  "author": "iLopezosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iLopezosa/api-wars-cli/issues"
+  },
+  "homepage": "https://github.com/iLopezosa/api-wars-cli#readme"
+}
